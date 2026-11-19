@@ -1,4 +1,22 @@
-# GTA 6 meme — make.fun entry
+# makefun-gta6-meme-01
+
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/mohzaenuri/makefun-gta6-meme-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/mohzaenuri/makefun-gta6-meme-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: two ghosts cruise Vice City in a white convertible, and the agent didn't get WASTED — it got PAID.
+
+## Run it
+
+```sh
+npm install && node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tfmv7ccz&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
+
+## GTA 6 meme — make.fun entry
 
 In GTA, when you die the screen says **WASTED**. In this one, the agent
 didn't die. It got **PAID**.
